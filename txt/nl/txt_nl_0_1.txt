@@ -1,82 +1,106 @@
-0|Abstracte, Non-figuratieve Kunst
+0|Abstracte, non-figuratieve Kunst
 1|Religie en magie
-10|(symbolische) voorstellingen: schepping , kosmos etc.
+10|(symbolische) weergaven: schepping , kosmos, kosmogonie, universum en leven (in de breedste zin)
 11|Christelijke religie
-11A|Goddelijkheid, God (algemeen)
-#11A1|God the Creator
-#11A11|God measuring the Universe (with compasses)
-#11A2|Divine Nature
-#11A21|Divinity, 'Divinità' (Ripa)
-#11A22|symbols ~ Divine Nature
-#11A221|circle symbolizing God's perfectness
-#11A23|God's perfections
-#11A3|God's wrath
-#11A31|'Flagello di Dio' (Ripa)
-11B|Drieëenheid
-#11B1|Trinity represented by tripartite symbols
-#11B11|symbols of the Trinity ~ circular and/or triangular forms or arrangements
-#11B111|three concentric circles ~ Trinity
-#11B112|three interlocked circles ~ Trinity
-#11B113|triangle (within circle), with eye or tetragram ~ Trinity
-#11B114|three animals, geometrically arranged within a circle or triangle ~ Trinity
-#11B115|three running men, arranged in circular form ~ Trinity
-#11B12|Trinity represented as a person with three heads
-#11B121|'Tricephalus', three fused heads or faces only (~ Trinity)
-#11B13|Trinity represented by three animals sharing one head
-#11B14|other tripartite symbols of the Trinity
-#11B2|Trinity in which each of the Persons (God, Christ, Holy Ghost) is represented either by an object or by an animal
-#11B21|representation of the Trinity: hand (Father), lamb (Son), and dove (Holy Ghost)
-#11B22|representation of the Trinity: hand, cross and dove
-#11B23|representation of the Trinity: hand, chalice and dove
-#11B3|Holy Trinity in which one, two or all figures are represented in human shape
-#11B31|Trinity as three persons
-#11B311|Trinity as three identical persons
-#11B312|Father and Holy Ghost holding the crucified Christ (~ Trinity)
-#11B32|Trinity in which God the Father and Christ are represented as persons, the Holy Ghost as dove
-#11B321|God the Father seated, holding the youthful Christ (Emmanuel) in his lap
-#11B322|God the Father and Christ enthroned
-#11B3221|God the Father and Christ as identical persons
-#11B3222|Christ showing his wounds
-#11B323|God the Father holding the crucified or dead Christ
-#11B3231|God the Father holding the crucifix, 'Gnadenstuhl', Mercy-Seat, Throne of Grace
-#11B3232|God the Father standing or seated, holding the body of Christ, 'Pitié-de-Notre-Seigneur', 'Not Gottes'
-#11B33|representations of the Trinity
-#11B331|representation of the Trinity: person (Father), lamb (Son), and dove (Holy Ghost)
-#11B332|representation of the Trinity: person (Father), lion (Son), and dove (Holy Ghost)
-#11B333|representation of the Trinity: symbol (Father), person (Son), dove (Holy Ghost)
-#11B4|'Ratschluss der Erlösung', 'Prolog im Himmel'; Divine decree of Redemption
-#11B41|Divine decree of Redemption, allegorical figures present, e.g. Justice, Mercy, Peace and Truth (the Virtues reconciled)
-#11B42|sending of Gabriel ~ 'Ratschluss der Erlösung'
-#11B43|return of Gabriel ~ 'Ratschluss der Erlösung'
-#11B44|sending of the Son ~ 'Ratschluss der Erlösung'
-#11B45|return of the Son ~ 'Ratschluss der Erlösung'
-#11B5|extensions of the Holy Trinity
-#11B51|Quaternity (i.e. Trinity with Mary)
-#11B52|Quinity
+11A|Godheid, God (algemeen) ~ Christelijke religie
+11A1|God de Schepper
+11A11|God die het heelal meet (met kompassen)
+11A2|Goddelijke natuur
+11A21|Goddelijkheid, 'Divinità' (Ripa)
+11A22|symbolen ~ Goddelijke natuur
+11A221|cirkel die Gods volmaaktheid symboliseert
+11A23|Gods volmaaktheden
+11A3|Gods toorn
+11A31|'Flagello di Dio' (Ripa)
+11A4|Gods wil
+11B|de Heilige Drie-eenheid, 'Trinitas coelestis'; Vader, Zoon en Heilige Geest ~ christelijke godsdienst
+11B1|Drie-eenheid voorgesteld door driedelige symbolen
+11B11|symbolen van de Drie-eenheid ~ cirkelvormige en/of driehoekige vormen of indelingen
+11B111|drie concentrische cirkels ~ Drie-eenheid
+11B112|drie samenhangende cirkels ~ Drie-eenheid
+11B113|driehoek (binnen cirkel), met oog of tetragram ~ Drie-eenheid
+11B114|drie dieren, geometrisch ingedeeld binnen een cirkel of driehoek ~ Drie-eenheid
+11B115|drie lopende mannen, in cirkelvorm ~ Drie-eenheid
+11B12|Drie-eenheid voorgesteld als een persoon met drie hoofden
+11B121|'Tricephalus', drie samengesmolten hoofden of enkel gezichten (~ Drie-eenheid)
+11B13|Drie-eenheid voorgesteld door drie dieren die één hoofd delen
+11B14|andere driedelige symbolen van de Drie-eenheid
+11B2|Drie-eenheid waarin elk van de Personen (God, Christus, Heilige Geest) wordt voorgesteld door een voorwerp of door een dier
+11B21|weergave van de Drie-eenheid: hand (Vader), lam (Zoon) en duif (Heilige Geest)
+11B22|weergave van de Drie-eenheid: hand, kruis en duif
+11B23|weergave van de Drie-eenheid: hand, kelk en duif
+11B3|Heilige Drie-eenheid waarin één, twee of alle figuren in menselijke gedaante zijn afgebeeld
+11B31|Drie-eenheid als drie personen
+11B311|Drie-eenheid als drie identieke personen
+11B312|Vader en Heilige Geest die de gekruisigde Christus vasthouden (~ Drie-eenheid)
+11B32|Drie-eenheid waarin God de Vader en Christus als personen worden voorgesteld, de Heilige Geest als duif
+11B321|God de Vader zittend met de jeugdige Christus (Emmanuel) op zijn schoot
+11B322|God de Vader en Christus op een troon
+11B3221|God de Vader en Christus als identieke personen
+11B3222|Christus toont zijn wonden
+11B323|God de Vader die de gekruisigde of dode Christus vasthoudt
+11B3231|God de Vader met het kruisbeeld, 'Gnadenstuhl', barmhartigheidsstoel, troon van genade
+11B3232|God de Vader, staand of zittend, die het lichaam van Christus vasthoudt, 'Pitié-de-Notre-Seigneur', 'Not Gottes'.
+11B33|weergaven van de Drie-eenheid
+11B331|weergave van de Drie-eenheid: persoon (Vader), lam (Zoon) en duif (Heilige Geest)
+11B332|weergave van de Drie-eenheid: persoon (Vader), leeuw (Zoon) en duif (Heilige Geest)
+11B333|weergave van de Drie-eenheid: symbool (Vader), persoon (Zoon), duif (Heilige Geest)
+11B4|'Ratschluss der Erlösung', 'Prolog im Himmel'; Goddelijk verlossingsdecreet
+11B41|Goddelijk verlossingsdecreet, allegorische figuren aanwezig, bijv. Rechtvaardigheid, Genade, Vrede en Waarheid (’The Virtues Reconciled')
+11B42|Zending van Gabriël ~ 'Ratschluss der Erlösung'.
+11B43|terugkeer van Gabriël ~ 'Ratschluss der Erlösung'
+11B44|zending van de Zoon ~ 'Ratschluss der Erlösung'
+11B45|terugkeer van de Zoon ~ 'Ratschluss der Erlösung'
+11B5|uitbreidingen van de Heilige Drie-eenheid
+11B51|Kwaterniteit (i.e. Drie-eenheid met Maria)
+11B52|Vijf-eenheid
 11C|God de Vader
-#11C1|symbols of God the Father
-#11C11|the all-seeing eye, triangle with eye ~ symbol of God the Father
-#11C12|hand, 'Dextera Dei' ~ symbol of God the Father
-#11C13|tetragram (in Roman or Hebrew script) ~ symbol of God the Father
-#11C14|(pillar of) fire ~ symbol of God the Father
-#11C15|(rays of) light ~ symbol of God the Father
-#11C16|alpha and omega ~ symbol of God the Father
-#11C2|God the Father represented as human being, usually with crown or tiara or sceptre and/or globe
-#11C21|God the Father as young or adult man (perhaps resembling Christ)
-#11C211|God the Father enthroned, usually with sceptre and/or globe
-#11C22|God the Father as young or adult man resembling Jupiter
-#11C221|God the Father (resembling Jupiter) enthroned, usually with sceptre and/or globe
-#11C23|God the Father as bearded old man, usually with crown or tiara or sceptre and/or globe
-#11C231|God the Father (as bearded old man) enthroned, usually with crown or tiara, and with sceptre and/or globe
-#11C3|Christ sitting at God's right hand
-#11C31|God crowning Christ
-#11C32|God simultaneously crowning Christ and Mary
-#11C4|'Scala Salutis', Christ and Mary interceding with God the Father
-#11C41|Christ interceding with God the Father
-#11C5|other representations ~ God the Father
-#11C51|God the Father between the sun and the moon
+11C1|symbolen van God de Vader
+11C11|het alziend oog, driehoek met oog ~ symbool van God de Vader
+11C12|hand, 'Dextera Dei' ~ symbool van God de Vader
+11C13|tetragram (in Romeins of Hebreeuws schrift) ~ symbool van God de Vader
+11C14|(pilaar van) vuur ~ symbool van God de Vader
+11C15|(stralen van) licht ~ symbool van God de Vader
+11C16|alpha en omega ~ symbool van God de Vader
+11C2|God de Vader voorgesteld als mens, meestal met kroon of tiara of scepter en/of wereldbol
+11C21|God de Vader als jonge of volwassen man (lijkt misschien op Christus)
+11C211|God de Vader op een troon, gewoonlijk met scepter en/of wereldbol
+11C22|God de Vader als jonge of volwassen man die op Jupiter lijkt
+11C221|God de Vader (gelijkend op Jupiter) op een troon, gewoonlijk met scepter en/of wereldbol
+11C23|God de Vader als bebaarde oude man, gewoonlijk met kroon of tiara of scepter en/of wereldbol
+11C231|God de Vader (als bebaarde oude man) op een troon, gewoonlijk met kroon of tiara, en met scepter en/of wereldbol
+11C3|Christus zittend aan Gods rechterhand
+11C31|God die Christus kroont
+11C32|God die Christus en Maria tegelijk kroont
+11C4|'Scala Salutis', Christus en Maria die voorbede doen bij God de Vader
+Christus bemiddelend bij God de Vader
+11C5|andere voorstellingen ~ God de Vader
+11C51|God de Vader tussen de zon en de maan
 11D|Christus
-#11D1|symbols and prefigurations of Christ
+#11D1|symbol
+11D1|symbolen en prefiguraties van Christus
+11D11|letters en monogrammen ~ symbolen van Christus
+11D111|alpha en omega, soms met krans, driehoek, lijdenswerktuigen, etc. ~ symbool van Christus
+11D112|Chrismon en afgeleide vormen ~ symbool van Christus
+11D113|IHS ('Iesus Hominum Salvator') ~ symbool van Christus
+11D1131|labarum, d.w.z. keizerlijke standaard met het christogram IHS
+11D1132|aanbidding van de naam van Jezus
+11D114|'Ichthys' ~ symbool van Christus
+11D12|het kruis ~ symbolen van Christus
+11D121|kruis als symbool van Christus
+11D122|kruis met symbool van Christus erop, bijv. lam
+11D1221|kruis met hoofd of buste van Christus
+11D123|specifieke vormen van het kruis
+11D123(...)|specifieke vormen van het kruis (met NAAM)
+11D123(ANDREASKRUIS)|specifieke vormen van het kruis: andreaskruis
+11D123(ANSATAKRUIS)|specifieke vormen van het kruis: ansatakruis and prefigurations of Christ
+#11D123(BENEDICTINE CROSS)|specific forms of the cross: Benedictine cross
+#11D123(CARAVACA CROSS)|specific forms of the cross: Caravaca cross
+#11D123(FORKED CROSS)|specific forms of the cross: forked cross
+#11D123(GREEK CROSS)|specific forms of the cross: Greek cross
+#11D123(LORRAINE CROSS)|specific forms of the cross: Lorraine cross
+#11D123(SWASTIKA)|specific forms of the cross: swastika
+#11D123(TAU-CROSS)|specific forms of the cross: Tau-cross
 #11D11|letters and monograms ~ symbols of Christ
 #11D111|alpha and omega, sometimes with wreath, triangle, instruments of the Passion, etc. ~ symbol of Christ
 #11D112|Chrismon and derived forms ~ symbol of Christ
